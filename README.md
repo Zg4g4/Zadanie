@@ -1,6 +1,10 @@
-Login - user, Haslo - Pomidor123
-Login - admin, Haslo - MlodyBog
+Login - user, Haslo - Pomidor123 
 
 
-npm install react-router-dom
+Login - admin, Haslo - MlodyBog 
+
+
+npm install react-router-dom 
+
+
 npm install bootstrap
