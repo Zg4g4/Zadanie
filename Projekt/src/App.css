@@ -1,0 +1,95 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #e0f7fa !important;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #000000;
+}
+
+.navbar-light {
+  background-color: #cac5c5 !important;
+  border: 2px solid #000000 !important;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #00bcd4;
+}
+
+.btn {
+  border-radius: 30px;
+  padding: 10px 20px;
+  border: 2px solid transparent;
+}
+
+.btn-primary {
+  background-color: #ff80ab !important;
+  border-color: #ff80ab !important;
+}
+
+.btn-primary:hover {
+  background-color: #f50057 !important;
+  border-color: #f50057 !important;
+}
+
+.btn-danger {
+  background-color: #ff4081 !important;
+  border-color: #ff4081 !important;
+}
+
+.btn-danger:hover {
+  background-color: #f50057 !important;
+  border-color: #f50057 !important;
+}
+
+.btn-success {
+  background-color: #69f0ae !important;
+  border-color: #69f0ae !important;
+}
+
+.btn-success:hover {
+  background-color: #00e676 !important;
+  border-color: #00e676 !important;
+}
+
+.btn-dark {
+  background-color: #9e9e9e !important;
+  border-color: #9e9e9e !important;
+}
+
+.btn-dark:hover {
+  background-color: #616161 !important;
+  border-color: #616161 !important;
+}
+
+.table th, .table td {
+  padding: 15px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #f1f1f1 !important;
+  color: #00bcd4 !important;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f3f3f3 !important;
+}
